@@ -1,0 +1,15 @@
+#yucs-top-bar {
+	display:none !important;
+}
+
+#global-nav {
+	top:0 !important;
+}
+
+body.with-eyebrow {
+	margin-top: -22px !important;
+}
+
+body.with-eyebrow {
+	background-position: left top !important;
+}
